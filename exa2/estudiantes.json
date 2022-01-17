@@ -1,0 +1,73 @@
+{
+    "estudiantes":[{
+        "Cedula":"1234567890",
+        "Apellidos":"López Zambrano",
+        "Nombres":"Isaac Manuel",
+        "Semestre":"5",
+        "Paralelo":"A"
+     },
+     {
+        "Cedula":"2345678910",
+        "Apellidos":"Flores López",
+        "Nombres":"Luis Axcel",
+        "Semestre":"5",
+        "Paralelo":"A"
+     },
+     {
+        "Cedula":"3456789120",
+        "Apellidos":"Mendoza Parra",
+        "Nombres":"Luisa Andreina",
+        "Semestre":"5",
+        "Paralelo":"B"
+     },
+     {
+        "Cedula":"4567891230",
+        "Apellidos":"Ruperti Navarrete",
+        "Nombres":"Ariana Elizabeth",
+        "Semestre":"5",
+        "Paralelo":"B"
+     },
+     {
+        "Cedula":"5678912340",
+        "Apellidos":"Macias Saltos",
+        "Nombres":"Pedro Javier",
+        "Semestre":"5",
+        "Paralelo":"A"
+     },
+     {
+        "Cedula":"6789123450",
+        "Apellidos":"Bravo Avila",
+        "Nombres":"Justin Alexander",
+        "Semestre":"5",
+        "Paralelo":"C"
+     },
+     {
+        "Cedula":"7891234560",
+        "Apellidos":"Zambrano Solorzano",
+        "Nombres":"Ana Maria",
+        "Semestre":"5",
+        "Paralelo":"C"
+     },
+     {
+        "Cedula":"8912345670",
+        "Apellidos":"Piñera Boric",
+        "Nombres":"Mario Alberto",
+        "Semestre":"5",
+        "Paralelo":"A"
+     },
+     {
+        "Cedula":"9123456780",
+        "Apellidos":"Rallo Santos",
+        "Nombres":"Juan Ramon",
+        "Semestre":"5",
+        "Paralelo":"A"
+     },
+     {
+        "Cedula":"0123456789",
+        "Apellidos":"Delgado Palma",
+        "Nombres":"Ana Victoria",
+        "Semestre":"5",
+        "Paralelo":"B"
+     }
+    ]
+}
